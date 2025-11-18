@@ -193,3 +193,10 @@ sudo systemctl reload nginx
 Docker | Jenkins | AWS | DevOps Engineer in Progress ⚡
 
 ---
+#Screenshots
+<img width="1920" height="1080" alt="7" src="https://github.com/user-attachments/assets/3c85187a-ba1a-4980-a8bb-4cffa7bf5166" />
+<img width="1920" height="1080" alt="6" src="https://github.com/user-attachments/assets/8649c4c6-4819-4c00-b29e-afc3bca4cc51" />
+<img width="1920" height="1080" alt="5" src="https://github.com/user-attachments/assets/936744ff-406d-434f-b333-4c061f62d09e" />
+<img width="1920" height="1080" alt="4" src="https://github.com/user-attachments/assets/48b8341a-5de8-4819-85a3-6a27179f8172" />
+<img width="1920" height="1080" alt="3" src="https://github.com/user-attachments/assets/47b8304e-728e-49be-8bf6-ce0742047b5d" />
+
