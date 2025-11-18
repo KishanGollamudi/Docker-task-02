@@ -193,11 +193,3 @@ sudo systemctl reload nginx
 Docker | Jenkins | AWS | DevOps Engineer in Progress ⚡
 
 ---
-
-If you want, I can also create:
-
-✅ A **deployment.sh** automation script
-✅ A **Jenkins CD stage** that deploys the container to EC2
-✅ A **docker-compose.yml** for local development
-
-Just tell me!
